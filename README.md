@@ -7,3 +7,8 @@ modified, less gpu intensive
   ```bash
   pip install -r requirements.txt
   ```
+3. run the script:
+  ```bash
+  python main.py
+  ```
+4. enjoy
